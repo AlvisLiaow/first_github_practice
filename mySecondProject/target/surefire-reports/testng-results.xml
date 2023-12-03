@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-14T16:13:20 EST" name="Surefire suite" finished-at="2023-11-14T16:14:22 EST" duration-ms="61230">
+    <groups>
+    </groups>
+    <test started-at="2023-11-14T16:13:20 EST" name="Surefire test" finished-at="2023-11-14T16:14:22 EST" duration-ms="61230">
+      <class name="com.Exercise.testScript.Test_1_TestScript">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.Exercise.testScript.Test_1_TestScript@39a8312f]" started-at="2023-11-14T16:13:20 EST" name="beforeClass" finished-at="2023-11-14T16:13:20 EST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:com.Exercise.testScript.Test_1_TestScript@39a8312f]" started-at="2023-11-14T16:13:21 EST" name="beforeEachTest" finished-at="2023-11-14T16:13:25 EST" duration-ms="3798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="registerTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Exercise.testScript.Test_1_TestScript@39a8312f]" started-at="2023-11-14T16:13:25 EST" name="registerTest" data-provider="Practice" finished-at="2023-11-14T16:14:19 EST" duration-ms="54010" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[May]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Lee]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[MK]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[2010 Cy Ct]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[United States]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[VA]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[FairFax]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[20191]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[1234568]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerTest -->
+        <test-method is-config="true" signature="afterEachTest(org.testng.ITestResult)[pri:0, instance:com.Exercise.testScript.Test_1_TestScript@39a8312f]" started-at="2023-11-14T16:14:19 EST" name="afterEachTest" finished-at="2023-11-14T16:14:22 EST" duration-ms="2741" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=registerTest status=SUCCESS method=Test_1_TestScript.registerTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Exercise.testScript.Test_1_TestScript@39a8312f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.Exercise.testScript.Test_1_TestScript@39a8312f]" started-at="2023-11-14T16:14:22 EST" name="afterClass" finished-at="2023-11-14T16:14:22 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.Exercise.testScript.Test_1_TestScript -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

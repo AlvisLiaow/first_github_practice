@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.Exercise.testScript.Test_5_TestScript"/>
+      <class name="com.Exercise.testScript.Test_2_TestScript"/>
+      <class name="com.Exercise.testScript.Test_16_TestScript"/>
+      <class name="com.Exercise.testScript.Test_13_TestScript"/>
+      <class name="com.Exercise.testScript.Test_8_TestScript"/>
+      <class name="com.Exercise.testScript.Test_6_TestScript"/>
+      <class name="com.Exercise.testScript.Test_15_TestScript"/>
+      <class name="com.Exercise.testScript.Test_12_TestScript"/>
+      <class name="com.Exercise.testScript.Test_22_TestScript"/>
+      <class name="com.Exercise.testScript.Test_19_TestScript"/>
+      <class name="com.Exercise.testScript.Test_1_TestScript"/>
+      <class name="com.Exercise.testScript.Test_9_TestScript"/>
+      <class name="com.Exercise.testScript.Test_26TestScript"/>
+      <class name="com.Exercise.testScript.Test_7_TestScript"/>
+      <class name="com.Exercise.testScript.Test_11_TestScript"/>
+      <class name="com.Exercise.testScript.Test_18_TestScript"/>
+      <class name="com.Exercise.testScript.Test_24_TestScript"/>
+      <class name="com.Exercise.testScript.Test_21_TestScript"/>
+      <class name="com.Exercise.testScript.Test_10_TestScript"/>
+      <class name="com.Exercise.testScript.Test_4_TestScript"/>
+      <class name="com.Exercise.testScript.Test_25TestScript"/>
+      <class name="com.Exercise.testScript.Test_20_TestScript"/>
+      <class name="com.Exercise.testScript.Test_17_TestScript"/>
+      <class name="com.Exercise.testScript.Test_3_TestScript"/>
+      <class name="com.Exercise.testScript.Test_23_TestScript"/>
+      <class name="com.Exercise.testScript.Test_14_TestScript"/>
+    </classes>
+  </test>  Test 
+</suite>  Suite 
