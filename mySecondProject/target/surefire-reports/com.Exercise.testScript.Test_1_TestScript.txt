@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.Exercise.testScript.Test_1_TestScript
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 63.45 s -- in com.Exercise.testScript.Test_1_TestScript
